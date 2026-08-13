@@ -29,9 +29,9 @@ MIDDLEWARE=[
  'django.contrib.messages.middleware.MessageMiddleware',
 ]
 
-ROOT_URLCONF='MdRiyadulIslamRatul_REG_ICT_WADP_L4_001145_JobPortal.urls'
+ROOT_URLCONF='shahariar_job.urls'
 
-WSGI_APPLICATION='MdRiyadulIslamRatul_REG_ICT_WADP_L4_001145_JobPortal.wsgi.application'
+WSGI_APPLICATION='shahariar_job.wsgi.application'
 
 TEMPLATES=[{
  'BACKEND':'django.template.backends.django.DjangoTemplates',
